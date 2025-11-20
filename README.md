@@ -151,7 +151,7 @@ Kimi: Below is the same 4-quarter roadmap you already have, but now visualized t
 <img width="636" height="466" alt="image" src="https://github.com/user-attachments/assets/1ba99014-ff93-4809-8117-6b92f26dd602" />
 
 
-```
+
 
 --------------------------------------------------
 2. Text Mind-Map (expandable outline)
