@@ -409,8 +409,9 @@ Client (Browser)
       → Send to Client
     → Client displays data
 ```
+<img width="1091" height="415" alt="image" src="https://github.com/user-attachments/assets/22b333c4-6c69-47f5-9f12-6e354cb80e1d" />
 
-This comprehensive roadmap covers everything from your current level to professional full-stack development. Focus on building projects at each stage to solidify your learning!
+
 <span style="display:none">[^1][^2][^3][^4][^5][^6][^7][^8]</span>
 
 <div align="center">⁂</div>
