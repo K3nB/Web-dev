@@ -1,5 +1,3 @@
-[Complete Full-Stack Web Development Learning Roadm.md](https://github.com/user-attachments/files/23662259/Complete.Full-Stack.Web.Development.Learning.Roadm.md)
-
 
 # Complete Full-Stack Web Development Learning Roadmap
 
